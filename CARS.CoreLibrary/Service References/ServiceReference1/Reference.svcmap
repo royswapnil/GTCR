@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="41c2fda3-59b5-4a9e-a2fe-3cf57d3d20fe" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost/DPService/DPService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="DPService.xsd" MetadataType="Schema" ID="47930b5f-3e1d-4219-b3b3-dcdd91da5701" SourceId="1" SourceUrl="http://localhost/DPService/DPService.svc?xsd=xsd1" />
+    <MetadataFile FileName="DPService1.xsd" MetadataType="Schema" ID="6880b943-234a-4d88-8024-c11f898ae4ab" SourceId="1" SourceUrl="http://localhost/DPService/DPService.svc?xsd=xsd2" />
+    <MetadataFile FileName="DPService.wsdl" MetadataType="Wsdl" ID="1af2acd8-d8ea-4998-a5d3-c7d5387681d6" SourceId="1" SourceUrl="http://localhost/DPService/DPService.svc?wsdl" />
+    <MetadataFile FileName="DPService2.xsd" MetadataType="Schema" ID="994eb2bc-0465-4f36-be16-0341bebae773" SourceId="1" SourceUrl="http://localhost/DPService/DPService.svc?xsd=xsd0" />
+    <MetadataFile FileName="DPService.disco" MetadataType="Disco" ID="c591a86b-a474-4026-92f9-e1cf87fe2a0e" SourceId="1" SourceUrl="http://localhost/DPService/DPService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
