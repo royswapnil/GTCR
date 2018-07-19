@@ -49,7 +49,7 @@
     <Reference Include="CrystalDecisions.Web, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="Encryption, Version=1.0.1595.17965, Culture=neutral">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\Encryption.dll</HintPath>
+      <HintPath>..\CARS\bin\Encryption.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common, Version=6.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -61,7 +61,7 @@
     </Reference>
     <Reference Include="MSGCOMMON, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\MSGCOMMON.dll</HintPath>
+      <HintPath>..\CARS\bin\MSGCOMMON.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=7.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
