@@ -133,6 +133,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\CrystalDecisions.CrystalReports.Engine.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.ClientDoc.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.Controllers.dll" />
+    <Content Include="bin\CrystalDecisions.ReportAppServer.DataDefModel.dll" />
     <Content Include="bin\CrystalDecisions.ReportSource.dll" />
     <Content Include="bin\CrystalDecisions.Shared.dll" />
     <Content Include="bin\CrystalDecisions.Web.dll" />
